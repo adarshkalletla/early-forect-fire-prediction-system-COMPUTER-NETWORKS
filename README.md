@@ -1,4 +1,4 @@
-# early-forect-fire-prediction-system-COMPUTER-NETWORKS
+# early-forest-fire-prediction-system-COMPUTER-NETWORKS
 
 Wireless sensor network (WSN), is a collection of
  sensors that is used for monitoring the activities in a given
